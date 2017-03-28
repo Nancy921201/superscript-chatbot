@@ -6,16 +6,16 @@
             "keywords": [],
             "filter": null,
             "gambits": [
-                "8qbebBnV",
-                "Qh5Rs3M0",
-                "lPplRlqF",
-                "JcImGYQ1",
-                "etCssu9b",
-                "XYKFlj2Z",
-                "mZxoj8ey",
-                "LVuF8RxG",
-                "JafDV7bB",
-                "Hswz2L0t"
+                "DYqFlWKY",
+                "9QuVklHX",
+                "hGPt8pxv",
+                "SZjOyUWM",
+                "Q2UUk82o",
+                "EDvCjKBd",
+                "PfgVjRUk",
+                "zdN1i6CE",
+                "twAnIwTf",
+                "fTIosJCP"
             ]
         },
         "t2": {
@@ -24,17 +24,18 @@
             "keywords": [],
             "filter": null,
             "gambits": [
-                "WsTt5DqD",
-                "WyHWekTR",
-                "ufasshMI",
-                "O4COqB68",
-                "Nqfww25d",
-                "3jNLQDzJ"
+                "ZqOC4N52",
+                "b6rLfhou",
+                "ZaX24NND",
+                "YyZM81Qn",
+                "gV5Uq9r7",
+                "aimLD1Yi",
+                "eObykuoj"
             ]
         }
     },
     "gambits": {
-        "8qbebBnV": {
+        "DYqFlWKY": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -43,13 +44,13 @@
                 "clean": "@_t1_topic1_kickoff_@"
             },
             "replies": [
-                "Q3Y2eGzN"
+                "hvFtbDGL"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t1"
         },
-        "Qh5Rs3M0": {
+        "9QuVklHX": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -58,15 +59,15 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "Beybu9G4"
+                "HAEht4BQ"
             ],
             "conditional": null,
             "conversation": [
-                "Q3Y2eGzN"
+                "hvFtbDGL"
             ],
             "topic": "t1"
         },
-        "lPplRlqF": {
+        "hGPt8pxv": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -75,15 +76,15 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "4zveSTDt"
+                "D3yaLANA"
             ],
             "conditional": null,
             "conversation": [
-                "Beybu9G4"
+                "HAEht4BQ"
             ],
             "topic": "t1"
         },
-        "JcImGYQ1": {
+        "SZjOyUWM": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -92,15 +93,15 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "nKhrHkcZ"
+                "D9Fw6gcm"
             ],
             "conditional": null,
             "conversation": [
-                "4zveSTDt"
+                "D3yaLANA"
             ],
             "topic": "t1"
         },
-        "etCssu9b": {
+        "Q2UUk82o": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -109,15 +110,15 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "eZZYFkvd"
+                "y8YHNGxq"
             ],
             "conditional": null,
             "conversation": [
-                "nKhrHkcZ"
+                "D9Fw6gcm"
             ],
             "topic": "t1"
         },
-        "XYKFlj2Z": {
+        "EDvCjKBd": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -126,13 +127,13 @@
                 "clean": "__T1Q1"
             },
             "replies": [
-                "8msuoAv1"
+                "W1PPIQ9w"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t1"
         },
-        "mZxoj8ey": {
+        "PfgVjRUk": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -141,13 +142,13 @@
                 "clean": "__T1Q2"
             },
             "replies": [
-                "CC8prfbU"
+                "3q6yXwhu"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t1"
         },
-        "LVuF8RxG": {
+        "zdN1i6CE": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -156,13 +157,13 @@
                 "clean": "__T1Q3"
             },
             "replies": [
-                "wLTjZkRs"
+                "8RNMxOUw"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t1"
         },
-        "JafDV7bB": {
+        "twAnIwTf": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -171,13 +172,13 @@
                 "clean": "__T1Q4"
             },
             "replies": [
-                "AIEhJYdM"
+                "9oyqmcDn"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t1"
         },
-        "Hswz2L0t": {
+        "fTIosJCP": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -186,13 +187,13 @@
                 "clean": "__T1Q5"
             },
             "replies": [
-                "YuFc4NEF"
+                "mjiBQhFh"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t1"
         },
-        "WsTt5DqD": {
+        "ZqOC4N52": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -201,13 +202,13 @@
                 "clean": "@_t2_topic2_kickoff_@"
             },
             "replies": [
-                "TKFIRS5q"
+                "geqPmkC9"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t2"
         },
-        "WyHWekTR": {
+        "b6rLfhou": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -216,15 +217,15 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "UgpN7GtN"
+                "U93WLlgc"
             ],
             "conditional": null,
             "conversation": [
-                "TKFIRS5q"
+                "geqPmkC9"
             ],
             "topic": "t2"
         },
-        "ufasshMI": {
+        "ZaX24NND": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -233,15 +234,16 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "tlDXNzqx"
+                "O2nrPI5F"
             ],
             "conditional": null,
             "conversation": [
-                "UgpN7GtN"
+                "U93WLlgc",
+                "CAbNj0Ga"
             ],
             "topic": "t2"
         },
-        "O4COqB68": {
+        "YyZM81Qn": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -250,13 +252,28 @@
                 "clean": "__T2Q1"
             },
             "replies": [
-                "3kNAy687"
+                "GmFnafSq"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t2"
         },
-        "Nqfww25d": {
+        "gV5Uq9r7": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T2Q2_DIRECT",
+                "clean": "__T2Q2_DIRECT"
+            },
+            "replies": [
+                "CAbNj0Ga"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t2"
+        },
+        "aimLD1Yi": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -265,13 +282,13 @@
                 "clean": "__T2Q2"
             },
             "replies": [
-                "vEq1zH03"
+                "GxVe9SLw"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "t2"
         },
-        "3jNLQDzJ": {
+        "eObykuoj": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -280,7 +297,7 @@
                 "clean": "__T2Q3"
             },
             "replies": [
-                "Q1keoEQy"
+                "RqmbY6cN"
             ],
             "conditional": null,
             "conversation": null,
@@ -288,82 +305,87 @@
         }
     },
     "replies": {
-        "Q3Y2eGzN": {
+        "hvFtbDGL": {
             "string": "{@__T1Q1}",
             "filter": null,
             "keep": false
         },
-        "Beybu9G4": {
+        "HAEht4BQ": {
             "string": "{@__T1Q2}",
             "filter": null,
             "keep": false
         },
-        "4zveSTDt": {
+        "D3yaLANA": {
             "string": "{@__T1Q3}",
             "filter": null,
             "keep": false
         },
-        "nKhrHkcZ": {
+        "D9Fw6gcm": {
             "string": "{@__T1Q4}",
             "filter": null,
             "keep": false
         },
-        "eZZYFkvd": {
+        "y8YHNGxq": {
             "string": "{@__T1Q5}",
             "filter": null,
             "keep": false
         },
-        "8msuoAv1": {
+        "W1PPIQ9w": {
             "string": "topic one question one",
             "filter": null,
             "keep": false
         },
-        "CC8prfbU": {
+        "3q6yXwhu": {
             "string": "topic one question two",
             "filter": null,
             "keep": false
         },
-        "wLTjZkRs": {
+        "8RNMxOUw": {
             "string": "topic one question three",
             "filter": null,
             "keep": false
         },
-        "AIEhJYdM": {
+        "9oyqmcDn": {
             "string": "topic one question four",
             "filter": null,
             "keep": false
         },
-        "YuFc4NEF": {
+        "mjiBQhFh": {
             "string": "topic one question five",
             "filter": null,
             "keep": false
         },
-        "TKFIRS5q": {
+        "geqPmkC9": {
             "string": "{@__T2Q1}",
             "filter": null,
             "keep": false
         },
-        "UgpN7GtN": {
+        "U93WLlgc": {
             "string": "{@__T2Q2}",
             "filter": null,
             "keep": false
         },
-        "tlDXNzqx": {
+        "O2nrPI5F": {
             "string": "{@__T2Q3}",
             "filter": null,
             "keep": false
         },
-        "3kNAy687": {
+        "GmFnafSq": {
             "string": "topic two question one",
             "filter": null,
             "keep": false
         },
-        "vEq1zH03": {
+        "CAbNj0Ga": {
+            "string": "{@__T2Q2}",
+            "filter": null,
+            "keep": false
+        },
+        "GxVe9SLw": {
             "string": "topic two question two",
             "filter": null,
             "keep": false
         },
-        "Q1keoEQy": {
+        "RqmbY6cN": {
             "string": "topic two question three",
             "filter": null,
             "keep": false
@@ -371,7 +393,7 @@
     },
     "checksums": {
         "./chat/topic1.ss": "529cfd24fc16101bd822c0c03e72438159567787",
-        "./chat/topic2.ss": "61e1e94eb9e8b5a77a4267c9a291e2fec83b88fa"
+        "./chat/topic2.ss": "c502f4c899de44060988cef1896f57c72361a026"
     },
     "version": 1
 }
