@@ -7,6 +7,5 @@ npm install
 
 ## test
 ```
-ava test.js
-
+DEBUG=SS:GetReply ava
 ```
