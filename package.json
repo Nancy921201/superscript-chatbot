@@ -11,5 +11,8 @@
   "dependencies": {
     "ava": "^0.18.2",
     "superscript": "^1.0.6"
+  },
+  "engines": {
+    "node": ">= 7.7.1"
   }
 }
