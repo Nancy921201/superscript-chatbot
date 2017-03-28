@@ -1,4 +1,11 @@
-执行测试案例：
+# superscript-chatbot
+
+## install
+```
+npm install
+```
+
+## test
 ```
 ava test.js
 
