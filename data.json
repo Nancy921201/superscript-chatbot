@@ -1,0 +1,377 @@
+{
+    "topics": {
+        "t1": {
+            "name": "t1",
+            "flags": {},
+            "keywords": [],
+            "filter": null,
+            "gambits": [
+                "8qbebBnV",
+                "Qh5Rs3M0",
+                "lPplRlqF",
+                "JcImGYQ1",
+                "etCssu9b",
+                "XYKFlj2Z",
+                "mZxoj8ey",
+                "LVuF8RxG",
+                "JafDV7bB",
+                "Hswz2L0t"
+            ]
+        },
+        "t2": {
+            "name": "t2",
+            "flags": {},
+            "keywords": [],
+            "filter": null,
+            "gambits": [
+                "WsTt5DqD",
+                "WyHWekTR",
+                "ufasshMI",
+                "O4COqB68",
+                "Nqfww25d",
+                "3jNLQDzJ"
+            ]
+        }
+    },
+    "gambits": {
+        "8qbebBnV": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "@_t1_topic1_kickoff_@",
+                "clean": "@_t1_topic1_kickoff_@"
+            },
+            "replies": [
+                "Q3Y2eGzN"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t1"
+        },
+        "Qh5Rs3M0": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "*",
+                "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
+            },
+            "replies": [
+                "Beybu9G4"
+            ],
+            "conditional": null,
+            "conversation": [
+                "Q3Y2eGzN"
+            ],
+            "topic": "t1"
+        },
+        "lPplRlqF": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "*",
+                "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
+            },
+            "replies": [
+                "4zveSTDt"
+            ],
+            "conditional": null,
+            "conversation": [
+                "Beybu9G4"
+            ],
+            "topic": "t1"
+        },
+        "JcImGYQ1": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "*",
+                "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
+            },
+            "replies": [
+                "nKhrHkcZ"
+            ],
+            "conditional": null,
+            "conversation": [
+                "4zveSTDt"
+            ],
+            "topic": "t1"
+        },
+        "etCssu9b": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "*",
+                "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
+            },
+            "replies": [
+                "eZZYFkvd"
+            ],
+            "conditional": null,
+            "conversation": [
+                "nKhrHkcZ"
+            ],
+            "topic": "t1"
+        },
+        "XYKFlj2Z": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T1Q1",
+                "clean": "__T1Q1"
+            },
+            "replies": [
+                "8msuoAv1"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t1"
+        },
+        "mZxoj8ey": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T1Q2",
+                "clean": "__T1Q2"
+            },
+            "replies": [
+                "CC8prfbU"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t1"
+        },
+        "LVuF8RxG": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T1Q3",
+                "clean": "__T1Q3"
+            },
+            "replies": [
+                "wLTjZkRs"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t1"
+        },
+        "JafDV7bB": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T1Q4",
+                "clean": "__T1Q4"
+            },
+            "replies": [
+                "AIEhJYdM"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t1"
+        },
+        "Hswz2L0t": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T1Q5",
+                "clean": "__T1Q5"
+            },
+            "replies": [
+                "YuFc4NEF"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t1"
+        },
+        "WsTt5DqD": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "@_t2_topic2_kickoff_@",
+                "clean": "@_t2_topic2_kickoff_@"
+            },
+            "replies": [
+                "TKFIRS5q"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t2"
+        },
+        "WyHWekTR": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "*",
+                "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
+            },
+            "replies": [
+                "UgpN7GtN"
+            ],
+            "conditional": null,
+            "conversation": [
+                "TKFIRS5q"
+            ],
+            "topic": "t2"
+        },
+        "ufasshMI": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "*",
+                "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
+            },
+            "replies": [
+                "tlDXNzqx"
+            ],
+            "conditional": null,
+            "conversation": [
+                "UgpN7GtN"
+            ],
+            "topic": "t2"
+        },
+        "O4COqB68": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T2Q1",
+                "clean": "__T2Q1"
+            },
+            "replies": [
+                "3kNAy687"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t2"
+        },
+        "Nqfww25d": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T2Q2",
+                "clean": "__T2Q2"
+            },
+            "replies": [
+                "vEq1zH03"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t2"
+        },
+        "3jNLQDzJ": {
+            "trigger": {
+                "flags": {},
+                "filter": null,
+                "question": false,
+                "raw": "__T2Q3",
+                "clean": "__T2Q3"
+            },
+            "replies": [
+                "Q1keoEQy"
+            ],
+            "conditional": null,
+            "conversation": null,
+            "topic": "t2"
+        }
+    },
+    "replies": {
+        "Q3Y2eGzN": {
+            "string": "{@__T1Q1}",
+            "filter": null,
+            "keep": false
+        },
+        "Beybu9G4": {
+            "string": "{@__T1Q2}",
+            "filter": null,
+            "keep": false
+        },
+        "4zveSTDt": {
+            "string": "{@__T1Q3}",
+            "filter": null,
+            "keep": false
+        },
+        "nKhrHkcZ": {
+            "string": "{@__T1Q4}",
+            "filter": null,
+            "keep": false
+        },
+        "eZZYFkvd": {
+            "string": "{@__T1Q5}",
+            "filter": null,
+            "keep": false
+        },
+        "8msuoAv1": {
+            "string": "topic one question one",
+            "filter": null,
+            "keep": false
+        },
+        "CC8prfbU": {
+            "string": "topic one question two",
+            "filter": null,
+            "keep": false
+        },
+        "wLTjZkRs": {
+            "string": "topic one question three",
+            "filter": null,
+            "keep": false
+        },
+        "AIEhJYdM": {
+            "string": "topic one question four",
+            "filter": null,
+            "keep": false
+        },
+        "YuFc4NEF": {
+            "string": "topic one question five",
+            "filter": null,
+            "keep": false
+        },
+        "TKFIRS5q": {
+            "string": "{@__T2Q1}",
+            "filter": null,
+            "keep": false
+        },
+        "UgpN7GtN": {
+            "string": "{@__T2Q2}",
+            "filter": null,
+            "keep": false
+        },
+        "tlDXNzqx": {
+            "string": "{@__T2Q3}",
+            "filter": null,
+            "keep": false
+        },
+        "3kNAy687": {
+            "string": "topic two question one",
+            "filter": null,
+            "keep": false
+        },
+        "vEq1zH03": {
+            "string": "topic two question two",
+            "filter": null,
+            "keep": false
+        },
+        "Q1keoEQy": {
+            "string": "topic two question three",
+            "filter": null,
+            "keep": false
+        }
+    },
+    "checksums": {
+        "./chat/topic1.ss": "529cfd24fc16101bd822c0c03e72438159567787",
+        "./chat/topic2.ss": "61e1e94eb9e8b5a77a4267c9a291e2fec83b88fa"
+    },
+    "version": 1
+}
